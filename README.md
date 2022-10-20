@@ -1,2 +1,2 @@
 # portfo
-[An Internal Link](Gabrielm.pythonanywhere.com)
+[To view my portfolio, click here](Gabrielm.pythonanywhere.com)
